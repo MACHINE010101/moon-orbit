@@ -21,7 +21,7 @@ pip install pygame
 ## Usage
 
 ```
-python orbit.py
+python sim.py
 ```
 
 Close the window to exit.
